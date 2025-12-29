@@ -88,8 +88,3 @@
 | **Бібліотеки (Data Science)** | `pandas`, `numpy`, `matplotlib`, `seaborn` (для EDA) |
 | **Методологія** | Data Cleaning Pipeline, Exploratory Data Analysis (EDA) |
 | **Формат даних** | Long format (DataFrame) |
-
----
-
-*Цей проєкт демонструє здатність перетворювати неструктуровані дані у чіткі бізнес-рекомендації, що є критично важливим для E-commerce.*
-
